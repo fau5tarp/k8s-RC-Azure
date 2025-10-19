@@ -1,0 +1,8 @@
+# Ignore local dev artifacts
+.env
+*.log
+*.DS_Store
+node_modules/
+vendor/
+.idea/
+.vscode/
